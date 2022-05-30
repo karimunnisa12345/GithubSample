@@ -1,0 +1,9 @@
+utils\PropertyUtils.class
+pages\LoginPage.class
+pages\HomePage.class
+utils\PageUtils.class
+hooks\BaseClass.class
+pages\RegistrationPage.class
+tests\TestSandbox.class
+pages\OrientationPage.class
+pages\OrientationRegistration.class
